@@ -10,73 +10,78 @@ redirect_from:
   - /about.html
 ---
 
-This is the home page of Xiangyu He.
+## Xiangyu He
 
-**Xiangyu He**
+I am Xiangyu He, a Computer Science student at Xiamen University, with interests in machine learning, data mining, and trustworthy AI.
 
-Email: hexiangyu941@gmail.com Phone: +86 188 1020 7286 Address: Xiamen University, China
+- **Email:** [hexiangyu941@gmail.com](mailto:hexiangyu941@gmail.com)
+- **Phone:** +86 188 1020 7286
+- **Address:** Xiamen University, China
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=zh-CN&user=Qv4GarUAAAAJ)
+- **GitHub:** [jackhexiangyu12](https://github.com/jackhexiangyu12)
 
-EDUCATION
+## Education
 
-Xiamen University, Xiamen, China __(985 & Double First Class)__
+**Xiamen University, Xiamen, China** *(985 & Double First Class)*  
+B.E. in Computer Science and Technology, Jul 2020 – Jul 2024 (expected)
 
-B.E. in Computer Science and Technology July 2020 - July 2024 (expected)
+**Selected courses:** Discrete Mathematics (91), Probability and Statistics (93), Data Structure (95), Design and Analysis of Algorithms (96), Principles of Operating Systems (96), Principles of Compiler Construction (96), Principles of Database System (93), UNIX System Programming (95), Assembly Language Programming (98).
 
-- Major Courses: Discrete Mathematics (91), Probability and Statistics (93), Data Structure (95), Design and Analysis of Algorithms (96), Principles of Operating Systems (96), Principles of Compiler Construction (96), Principles of Database System (93), UNIX System Programming (95), Assembly Language Programming (98)
+## Publications
 
-PUBLICATION
+1. Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su. **Code-Aware Cross-Program Transfer Hyperparameter Optimization**. *AAAI Conference on Artificial Intelligence (AAAI)*, 2023 (CCF-A).
+2. Yuxiang Cai, Xin Jiang, Yang Li, Xiangyu He, Chen Lin. **Resolving Power Equipment Data Inconsistency via Heterogeneous Network Alignment**. *IEEE Access*, 11:23980–23988, 2023 (SCI).
 
-1. Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su, “Code-Aware Cross-Program Transfer Hyperpa- rameter Optimization”, AAAI Conference on ArtificialIntelligence (AAAI), 2023 __(CCF-A)__.
-1. Yuxiang Cai, Xin Jiang, Yang Li, Xiangyu He, Chen Lin, “Resolving Power Equipment Data Inconsistency via Heterogeneous Network Alignment”, IEEE Access, vol.11, pp 23980-23988, 2023 (SCI).
+## Recent Reviewing Service
 
-HONORS & AWARDS
+- **ICML Reviewer** — Served as a reviewer for the *International Conference on Machine Learning (ICML)*, contributing peer-review support for cutting-edge machine learning research.
 
-- First-Class Academic Scholarship of Xiamen University (10%) 2023
-- Xiamen University Campus Scholarship (5%) 2022
-- First-Class of Xiamen University Intelligent Base Scholarship (10%) 2022
-- National Final Second Prize of China Computer Design Competition 2022
-- National Final Third Prize of Robocom Robot Developer Competition CAIP Programming Design 2022
-- Leader of National University Student Innovation and Entrepreneurship Project 2022
+## Honors & Awards
 
-RESEARCH EXPERIENCE & PROJECTS
+- First-Class Academic Scholarship of Xiamen University (Top 10%), 2023
+- Xiamen University Campus Scholarship (Top 5%), 2022
+- First-Class of Xiamen University Intelligent Base Scholarship (Top 10%), 2022
+- National Final Second Prize, China Computer Design Competition, 2022
+- National Final Third Prize, Robocom Robot Developer Competition (CAIP Programming Design), 2022
+- Leader, National University Student Innovation and Entrepreneurship Project, 2022
 
-Intern, Data Mining Laboratory, Xiamen University Sep 2021 - Apr 2023
+## Research Experience
 
-- Identifiedthe cold-start problem in Bayesian optimization based hyperparameter tuning in cross-program settings
-- Designed a code-aware cross-program hyperparameter optimization framework
-- Conduct experiments on CaTHPO and six SOTA methods on Spark and recommendation system platforms
-- Outcome: Published a full paper in AAAI 2023 (CCF-A) as second author
+**Intern, Data Mining Laboratory, Xiamen University** (Sep 2021 – Apr 2023)
 
-Resolving Power Equipment Data Inconsistency via Heterogeneous Network Alignment Apr 2022 - Mar 2023
+- Investigated the cold-start issue in Bayesian-optimization-based hyperparameter tuning under cross-program settings.
+- Designed a code-aware cross-program hyperparameter optimization framework.
+- Conducted experiments comparing CaTHPO with six SOTA baselines on Spark and recommendation-system platforms.
+- Outcome: Full paper published in AAAI 2023 (CCF-A) as second author.
 
-- Builds multiple data sources into a heterogeneous graph
-- Captures complex physical and semantic relationships among devices
-- Solve inconsistent device entries in multiple sources
-- Outcome: Published a full paper in IEEE Access as fourth author
+**Project: Resolving Power Equipment Data Inconsistency via Heterogeneous Network Alignment** (Apr 2022 – Mar 2023)
 
-Software Copyright, Raman Spectroscopy Analysis Software based on Deep Forest Oct 2022 - Feb 2023
+- Built multi-source power data into a heterogeneous graph.
+- Modeled complex physical and semantic relationships among devices.
+- Resolved inconsistent device entries across multiple data sources.
+- Outcome: Full paper published in IEEE Access as fourth author.
 
-- Identify individual pesticide spectra and individual pigment spectra
-- Display the sample category, a schematic diagram of the sample’s chemical structure, and a brief introduction
-- Display the original spectrum to perform baseline deduction, denoising, and other operations on the spectrum
-- Outcome: Published Software copyright as a third author
+**Software Copyright Project: Raman Spectroscopy Analysis Software based on Deep Forest** (Oct 2022 – Feb 2023)
 
-Leader, China Computer Design Competition Apr 2022 - July 2022
+- Identified individual pesticide and pigment spectra.
+- Built visualization for sample categories, chemical-structure schematics, and descriptions.
+- Implemented spectrum preprocessing (baseline deduction, denoising, etc.).
+- Outcome: Software copyright published as third author.
 
-- Led the Dynamic Tracking and Recognition of Masks and Scissors by Medical Robot Dogs project
-- Developed a new object detection algorithm (PP-YOLOE) for accurate target recognition on robot dogs
-- Optimized and implemented data acquisition and augmentation mechanisms
-- Outcome: Awarded National Final Second Prize of China Computer Design Competition 2022
+**Leader, China Computer Design Competition** (Apr 2022 – Jul 2022)
 
-Intern, ASC Laboratory, Xiamen University July 2021 - July 2022
+- Led the “Dynamic Tracking and Recognition of Masks and Scissors by Medical Robot Dogs” project.
+- Applied PP-YOLOE for accurate target recognition on robot dogs.
+- Optimized data acquisition and augmentation pipeline.
+- Outcome: National Final Second Prize, 2022.
 
-- IdentifiedData Heterogeneity as causes for unfairness in horizontal federated learning
-- Designed and implemented algorithms to eliminate model unfairness
-- Outcome: Leader of National University Student Innovation and Entrepreneurship Project
+**Intern, ASC Laboratory, Xiamen University** (Jul 2021 – Jul 2022)
 
-SKILLS & LANGUAGES
+- Identified data heterogeneity as an important cause of unfairness in horizontal federated learning.
+- Designed and implemented methods to mitigate model unfairness.
+- Outcome: Led a National University Student Innovation and Entrepreneurship Project.
 
-C++, Python, PyTorch, Algorithm & Data Structure, Databases, Operation Systems, Latex.
+## Skills & Languages
 
-English: IELTS (6.5), CET-6 (523); Manderian: Native.
-
+- **Technical skills:** C++, Python, PyTorch, Algorithms & Data Structures, Databases, Operating Systems, LaTeX
+- **Languages:** Mandarin (native), English (IELTS 6.5, CET-6: 523)
